@@ -1,12 +1,22 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace GuessingGame
+
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            string message = "Hello World";
+
+            Console.WriteLine(message);
+
+            string farewell = "Goodbye";
+
+            Console.WriteLine(farewell);
+
+
         }
     }
 }
